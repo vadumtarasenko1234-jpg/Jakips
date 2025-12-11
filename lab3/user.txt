@@ -1,0 +1,6 @@
+--- Новий сеанс запису користувачів ---
+User #1: Bohdan (Bohdan@itcollege.lviv.ua)
+User #2: Marta (Marta@gmail.com)
+User #3: Artem (Artem@itcollege.lviv.ua)
+User #5: Anonymous (Anonymous@gmail.com)
+User #6: Анна-марія (Анна-марія@itcollege.lviv.ua)
