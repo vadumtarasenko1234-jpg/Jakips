@@ -79,7 +79,7 @@
 
 ### 6. Структура проєкту
 Скріншот структури проєкту:  
-[](/lab7.1/pictures/image%20copy%205.png)
+![](/lab7.1/pictures/image%20copy%205.png)
 
 ---
 
